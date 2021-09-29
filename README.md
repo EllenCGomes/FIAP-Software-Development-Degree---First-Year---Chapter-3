@@ -5,13 +5,11 @@ EXERCISE 01/EXERCICIO 01
 
 •	English -> The JoWell Sant'ana English school, in which all classes are composed of 50 students, asked you to create a system capable of meeting the following requirement: the teacher must first enter the grades of the 25 students who have an odd number on the call and then the grades of the 25 students who have an even number. The system must calculate and display the average of each half of the room and inform, at the end, which one had the highest score. There is also a special request from the maintainer: so that teachers do not get confused, when typing each of the notes, a message must be displayed in the following pattern:
 
-YOU ARE TYPING PAIR STUDENT NOTES
-PLEASE INSERT STUDENT NOTE NUMBER x.
+You are typing pair students notes. Please insert the student grade number X.
 
 •	Português -> A escola de inglês JoWell Sant’ana, em que todas as turmas são compostas por 50 alunos, solicitou que você criasse um sistema capaz de atender ao seguinte requisito: o professor deve digitar primeiro as notas dos 25 alunos que tem número ímpar na chamada e depois as notas dos 25 alunos que tem número par. O sistema deve calcular e exibir a média de cada uma das metades da sala e informar, ao final, qual delas teve a maior nota. Há ainda um pedido especial do mantenedor: para que os professores não se confundam, ao digitar cada uma das notas deve ser exibida uma mensagem no seguinte padrão:
 
-VOCÊ ESTÁ DIGITANDO AS NOTAS DOS ALUNOS PARES
-POR FAVOR, INSIRA A NOTA DO ALUNO DE NÚMERO x.
+Você está digitando as notas dos alunos pares. Por favor, insira a nota do aluno de número X.
 
 
 EXERCISE 02/EXERCICIO 02
