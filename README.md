@@ -1,3 +1,5 @@
+ALL CODES WERE DEVELOPED BY ME
+
 # FIAP-Software-Development-Degree---First-Year---Chapter-3
 Exercises Phase 2
 
